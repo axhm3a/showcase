@@ -7,4 +7,4 @@ greets,
 
 axhm3a
 
-<a href="http://axhm3a.github.com/showcase/index.html">Loading collada from Wings 3D...</a>
+<a href="http://axhm3a.github.com/showcase/collada.html">Loading collada from Wings 3D...</a>
